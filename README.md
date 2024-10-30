@@ -1,5 +1,17 @@
-# 💫 About Me:
-🎯 I’m currently working on creating full-stack applications with Flutter and Node.js.<br>👥 I’m looking to collaborate on innovative Flutter projects and AI integrations.<br>🤝 I’m looking for help with advanced machine learning and complex TensorFlow applications.<br>🌱 I’m currently learning Python for machine learning and deepening my knowledge in TensorFlow.<br>🎨 I also have a strong foundation in UI/UX design, ensuring that the apps I build are both functional and visually appealing.<br>💬 Ask me about Flutter, Node.js, UI/UX design, or mobile development!<br>⚡ Fun fact: Besides coding, I’m a passionate gamer and always eager to dive into the latest tech trends.
+# 💫 About Me
+
+Hi 👋, I'm **Malik Noman Tariq**  
+A passionate **Full-Stack Flutter Developer** 
+
+🎯 I’m currently working on creating full-stack applications with **Flutter** and **Node.js**.  
+👥 I’m looking to collaborate on innovative **Flutter** projects and **AI integrations**.  
+🤝 I’m looking for help with **advanced machine learning** and **TensorFlow** applications.  
+🌱 I’m currently learning **Python for machine learning** and deepening my knowledge in **TensorFlow**.  
+🎨 With a solid background in **UI/UX design**, I ensure that my apps are both functional and visually appealing.  
+💬 Ask me about **Flutter**, **Node.js**, **UI/UX design**, or **mobile development**!  
+⚡ Fun fact: Besides coding, I’m a passionate gamer and always eager to dive into the latest tech trends.
+
+
 
 
 ## 🌐 Socials:
