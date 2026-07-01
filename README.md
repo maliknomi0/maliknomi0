@@ -54,7 +54,7 @@ I'm a **Full Stack & Mobile App Developer** who enjoys building complete product
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=maliknomi0&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=maliknomi0&theme=tokyonight&hide_border=true&dates=00000000"/>
 </div>
 
 ---
@@ -65,4 +65,3 @@ I'm a **Full Stack & Mobile App Developer** who enjoys building complete product
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
