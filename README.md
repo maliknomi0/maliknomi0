@@ -35,19 +35,6 @@ I'm a **Full Stack & Mobile App Developer** who enjoys building complete product
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Plant-Disease-Detector-API**](https://github.com/maliknomi0/Plant-Disease-Detector-API) | API that detects plant diseases using Gemini | JavaScript |
-| [**node-boilerplate-postgres**](https://github.com/maliknomi0/node-boilerplate-postgres) | Production-ready Express + Sequelize + PostgreSQL boilerplate — JWT auth, RBAC, migrations, seeders | Node.js, PostgreSQL |
-| [**riverpod_mvvm**](https://github.com/maliknomi0/riverpod_mvvm) | Flutter MVVM architecture starter with built-in auth | Flutter, Dart |
-| [**UserManagementAPI**](https://github.com/maliknomi0/UserManagementAPI) | Login/signup/edit-profile & password-change API with image upload | JavaScript |
-
-> 💡 *Tip: add a one-line "what problem this solves" + a live demo/GIF to each repo's own README — it turns a code dump into something recruiters actually stop and look at.*
-
----
-
 ## ⚔️ Core Domains & Tech Stack
 
 <div align="center">
@@ -70,7 +57,7 @@ I'm a **Full Stack & Mobile App Developer** who enjoys building complete product
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-**AI / ML** *(currently learning)*
+**AI / ML**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
@@ -86,10 +73,6 @@ I'm a **Full Stack & Mobile App Developer** who enjoys building complete product
   <img width="100%" src="https://streak-stats.demolab.com/?user=maliknomi0&theme=tokyonight&hide_border=true&dates=00000000"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maliknomi0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliknomi0&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
