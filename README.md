@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=02569B&size=32&center=true&vCenter=true&width=700&height=70&duration=2500&lines=Hey+There!+👋+I'm+Malik+Noman+Tariq;Full+Stack+Developer+💻;Mobile+App+Developer+📱;UI%2FUX+Enthusiast+🎨;Diving+into+AI+%2B+Machine+Learning+🤖" />
-</div>
-
-<br/>
-
-<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:02569B,100:0d1117&height=200&section=header&text=MALIK%20NOMAN%20TARIQ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Mobile%20App%20Developer&descAlignY=58&descAlign=50"/>
 </div>
 
@@ -24,7 +18,7 @@
 
 > **"Building apps that work great — and look even better."**
 
-I'm a **Full Stack & Mobile App Developer** who enjoys building complete products — from the backend logic to the interface people actually touch. Whether it's a mobile app or a web platform, I care about clean architecture and a UI that feels right.
+I'm a **Mobile App Developer** who enjoys building complete products, from the backend logic to the interface people actually touch. Whether it's a mobile app or a web platform, I care about clean architecture and a UI that feels right.
 
 - 🎯 Building end-to-end applications — **mobile apps** and **full-stack web systems**
 - 👥 Open to collaborating on **mobile** and **full-stack** projects, including **AI-powered integrations**
